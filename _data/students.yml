@@ -1,0 +1,17 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: John Doe
+  photo: rock.jpg
+  info: Master student
+  email: student@uni-passau.de
+  number_educ: 0
+  education1:
+

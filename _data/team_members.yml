@@ -1,0 +1,43 @@
+- name: Prof. Dr. Jelena Mitrović
+  photo: Jelena Metrovic.jpg
+  info: CAROLL research group leader, started MMM-YYYY
+  email: Jelena.Mitrovic@uni-passau.de
+  number_educ: 4
+  education1: ----
+  education2: ----
+  education3: ----
+  education4: ----
+  education5: ----
+
+- name: Ramona Kühn
+  photo: Ramona Kuehn.png
+  info: PhD Student, started MMM-YYYY
+  email: Ramona.Kuehn@uni-passau.de
+  number_educ: 2
+  education1: MSc. Computer Science, University of Passau
+  education2: BSc. Internet Computing, University of Passau
+  
+- name: Tobias Milz
+  photo: Tobias Milz.jpg
+  info: PhD Student, started MMM-YYYY
+  email: Tobias.Milz@uni-passau.de
+  number_educ: 2
+  education1: MSc. Computer Science, University of Passau
+  education2: BSc. Internet Computing, University of Passau
+
+- name: Sudharsana Kannan
+  photo: sudha_kannan.jpg
+  info: PhD Student, started MMM-YYYY
+  email: Sudharsana.Kannan@uni-passau.de
+  number_educ: 2
+  education1: Msc. Mobile and Embedded Systems, University of Passau
+  education2: B.Tech in Information and Communication Technology, SASTRA University, India
+
+- name: Mehdi Ben Amor
+  photo: Mehdi1.jpg
+  info: PhD Student, started MMM-YYYY
+  email: Mehdi.BenAmor@uni-passau.de
+  number_educ: 2
+  education1: MSc. Computer Science, University of Passau
+  education2: Di­p­lom-In­ge­ni­eur Telecommunication & Networks, Higher School of Communications Sup'Com.
+  education3:

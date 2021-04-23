@@ -1,0 +1,28 @@
+- title: "Multi-word Expressions for Abusive Speech Detection in Serbian"
+  image: mwe2020.png
+  description: We pay special attention to adding Multi-word expressions that can be seen as abusive, as such lexical entries are very important in obtaining good results in a plethora of abusive language detection tasks.  We use Serbian morphological dictionaries as a basis for data cleaning and MWE dictionary creation.  A connection to otherlexical and semantic resources in Serbian is outlined and building of abusive language detection systems based on that connection is foreseen.
+  authors: Jelena Mitrović, Cliff O’Reilly, Randy Harris and Michael Granitzer
+  link:
+    url: https://www.aclweb.org/anthology/2020.mwe-1.10/
+    display:  Joint Workshop on Multiword Expressions and Electronic Lexicons 2020
+  highlight: 1
+  news2:
+
+- title: "I feel offended, don’t be abusive! implicit/explicit messages in offensive and abusive language"
+  image: lrec.png
+  description: In this contribution, we investigate a recent dataset for offensive language in English, namely OLID/OffensEval (Zampieri et al. 2019a; Zampieri et al. 2019b), in the light of two factors proposed by Waseem et al. 2017.
+  authors: Tommaso Caselli, Valerio Basile, Jelena Mitrovic, Inga Kartoziya, Michael Granitzer
+  link:
+    url: https://www.aclweb.org/anthology/2020.lrec-1.760/
+    display: 12th Conference on Language Resources and Evaluation (2020)
+  highlight: 1
+
+- title: "Cognitive Modeling in Computational Rhetoric: Litotes, Containment and the Unexcluded Middle"
+  image: icaart.png
+  description: We extend the assessment of the Excluded Middle from the perspective of Image Schema theory into the realm of the Unexcluded Middle and draw a representation of the layout of containers and analogous concept-activation. Lastly, we create and present an OWL ontology and publish it online.
+  authors: Jelena Mitrović, Cliff O’Reilly, Randy Allen Harris and Michael Granitzer
+  link:
+    url: /downloads/ICAART_Final.pdf
+    display:  International Conference on Agents and Artificial Intelligence (2021) 
+  highlight: 1
+
