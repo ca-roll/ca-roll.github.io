@@ -6,3 +6,11 @@ $(document).ready(function() {
         $(this).parent().parent().find(".bibtex.hidden").toggleClass('open');
     });
 });
+$(document).scroll(function(){
+	var y=  $(this).height() - $(window).height() - $(this).scrollTop();
+	if (y<10) {
+		$('.social').fadeIn();
+	} else {
+		$('.social').fadeOut();
+	}
+});
