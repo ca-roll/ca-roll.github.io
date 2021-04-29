@@ -10,8 +10,8 @@ deploy:
   provider: pages
   local-dir: ./_site
   target-branch: master
-  email: deploy@travis-ci.org
-  name: Deployment Bot
+  email: mehdi.benamor@supcom.tn
+  name: mehdibenamorr
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
