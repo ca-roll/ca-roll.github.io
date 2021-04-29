@@ -1,17 +1,17 @@
 - name: Prof. Dr. Jelena Mitrović
   photo: Jelena Metrovic.jpg
-  info: CAROLL research group leader, started MMM-YYYY
+  info: CAROLL research group leader
   email: Jelena.Mitrovic@uni-passau.de
   number_educ: 3
-  education1: PhD in Natural Language Processing, University of Passau
-  education2: M.Sc Computer Science, University of Passau
-  education3: M.Sc in Modern Greek, Ancient Greek, and English language and literature, University of Passau
+  education1: PhD in Natural Language Processing, University of Belgrad
+  education2: M.Sc Computer Science, University of Belgrad
+  education3: M.Sc in Modern Greek, Ancient Greek, and English language and literature, University of Belgrad
   education4: ----
   education5: ----
 
 - name: Ramona Kühn
   photo: Ramona Kuehn.png
-  info: PhD Student, started MMM-YYYY
+  info: PhD Student
   email: Ramona.Kuehn@uni-passau.de
   number_educ: 2
   education1: MSc. Computer Science, University of Passau
@@ -19,7 +19,7 @@
   
 - name: Tobias Milz
   photo: Tobias Milz.jpg
-  info: PhD Student, started MMM-YYYY
+  info: PhD Student
   email: Tobias.Milz@uni-passau.de
   number_educ: 2
   education1: MSc. Computer Science, University of Passau
@@ -27,7 +27,7 @@
 
 - name: Sudharsana Kannan
   photo: sudha_kannan.jpg
-  info: PhD Student, started MMM-YYYY
+  info: PhD Student
   email: Sudharsana.Kannan@uni-passau.de
   number_educ: 2
   education1: Msc. Mobile and Embedded Systems, University of Passau
@@ -35,7 +35,7 @@
 
 - name: Mehdi Ben Amor
   photo: Mehdi1.jpg
-  info: PhD Student, started MMM-YYYY
+  info: PhD Student
   email: Mehdi.BenAmor@uni-passau.de
   number_educ: 2
   education1: MSc. Computer Science, University of Passau
