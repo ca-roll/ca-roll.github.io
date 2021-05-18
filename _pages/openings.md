@@ -14,6 +14,13 @@ You will have the chance to work on the state-of-the-art problems and topics in 
 - Topic 1: TBD
 - Topic 2: TBD
 
+### Finished Master Theses
+
+**Supervisors**: Prof. Dr. Jelena Mitrović, Prof. Dr. Michael Granitzer
+
+- Muhammed Zohaib Khan - **Comparing the Performance of NLP Toolkits and Evaluation Measures in Legal Tech**, defended on 01.03.2021.
+- Shrikanth Singh Balaji Singh, **Comparison of Transfer Learning - based Language Models for Legal Document Classification**, defended on 25.03.2021.
+- Ehab Hussein, **Neural Models for Offensive Language Detection**, defended on 25.03.2021.
 
 ### Master projects for University of Passau students
 If you are a Master student at University of Passau looking for a Master thesis project in NLP, contact us per email.
