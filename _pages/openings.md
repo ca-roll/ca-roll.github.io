@@ -8,7 +8,7 @@ permalink: /vacancies
 
 ### Open Theses topics
 
-- Topic 1: Micro Incident Detection (<a href='/downloads/2020.mwe_1.10.pdf'>PDF</a>)
+- Topic 1: Micro Incident Detection (<a href='/downloads/Micropost_Incident_Detection.pdf'>PDF</a>)
 
 You will have the chance to work on the state-of-the-art problems and topics in Natural Languague Processing. You will be involved in determining the important and interesting research questions, designing and creating the experimental setups and contributing in publications.
 
