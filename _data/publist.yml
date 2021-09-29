@@ -1,10 +1,10 @@
-- title: "Multi-word Expressions for Abusive Speech Detection in Serbian"
-  image: mwe2020.png
-  description: We pay special attention to adding Multi-word expressions that can be seen as abusive, as such lexical entries are very important in obtaining good results in a plethora of abusive language detection tasks.  We use Serbian morphological dictionaries as a basis for data cleaning and MWE dictionary creation.  A connection to otherlexical and semantic resources in Serbian is outlined and building of abusive language detection systems based on that connection is foreseen.
-  authors: Jelena Mitrović, Cliff O’Reilly, Randy Harris and Michael Granitzer
+- title: "Hatebert: Retraining bert for abusive language detection in english"
+  image: hatebert.png
+  description: We introduce HateBERT, a re-trained BERT model for abusive language detection inEnglish. The model was trained on RAL-E, a large-scale dataset of Reddit comments in Englishfrom communities banned for being offensive, abusive, or hateful that we have collected andmade available to the public. Results and trained models are published on <a href='https://osf.io/tbd58/?view_only=d90e681c672a494bb555de99fc7ae780'><b>an OSF repository</b></a>.
+  authors: Caselli Tommaso, Basile Valerio, Jelena Mitrović and Michael Granitzer
   link:
-    url: https://www.aclweb.org/anthology/2020.mwe-1.10/
-    display:  Joint Workshop on Multiword Expressions and Electronic Lexicons 2020
+    url: https://arxiv.org/pdf/2010.12472.pdf
+    display:  Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH) ACL-IJCNPL 2021 2021
   highlight: 1
   news2:
 
@@ -17,12 +17,40 @@
     display: 12th Conference on Language Resources and Evaluation (2020)
   highlight: 1
 
-- title: "Cognitive Modeling in Computational Rhetoric: Litotes, Containment and the Unexcluded Middle"
-  image: icaart.png
-  description: We extend the assessment of the Excluded Middle from the perspective of Image Schema theory into the realm of the Unexcluded Middle and draw a representation of the layout of containers and analogous concept-activation. Lastly, we create and present an OWL ontology and publish it online.
-  authors: Jelena Mitrović, Cliff O’Reilly, Randy Allen Harris and Michael Granitzer
+- title: "Modeling Legal Terminology in SUMO"
+  image: legalsumo.png
+  description: We discuss ontological modeling of legal terminology in formal ontologies, such is SUMO (Pease, 2001) and the possibility of utilizing its close connection to the lexical-semantic network WordNet (Fellbaum, 1998) in the legal domain. Formal systems that allow for automated semantic interpretation of law supported by lexical resources can bring forth solutions to legal reasoning tasks.
+  authors: Jelena Mitrović, Adam Pease, Michael Granitzer
   link:
-    url: /downloads/ICAART_Final.pdf
-    display:  International Conference on Agents and Artificial Intelligence (2021) 
+    url: https://www.academia.edu/download/61950493/Mitrovic_SUMO.pdf
+    display:  TOTh 2019, Terminology and Ontology; Theories and applications
   highlight: 1
+  
+- title: "Ontological representations of rhetorical figures for argument mining"
+  image: rhetorical.png
+  description: This paper surveys ontological modeling of rhetorical concepts, developed for use in argument mining and other applications of computational rhetoric, projecting their future directions. We include ontological models of argument schemes applying Rhetorical Structure Theory (RST); the RhetFig proposal for modeling; the related RetFig Ontology of Rhetorical Figures for Serbian (developed by two of the authors); and the Lassoing Rhetoric project (developed by another of the authors). 
+  authors: Jelena Mitrović, Cliff O’Reilly, Miljana Mladenović and Siegfried Handschuh
+  link:
+    url: https://content.iospress.com/articles/argument-and-computation/aac027
+    display:  Argument & Computation, vol. 8, no. 3, pp. 267-287, 2017
+  highlight: 1
+  
+- title: "nlpUP at SemEval-2019 Task 6: A Deep Neural Language Model for Offensive Language Detection"
+  image: nlpUp.png
+  description: This paper presents our submission for the SemEval shared task 6, sub-task A on the identification of offensive language. Our proposed model, C-BiGRU, combines a Convolutional Neural Network (CNN) with a bidirectional Recurrent Neural Network (RNN). We utilize word2vec to capture the semantic similarities between words. This composition allows us to extract long term dependencies in tweets and distinguish between offensive and non-offensive tweets.
+  authors: J Mitrović, B Birkeneder, M Granitzer
+  link:
+    url: https://aclanthology.org/S19-2127.pdf
+    display:  In Proceedings of The 13th International Workshop on Semantic Evaluation (SemEval)
+  highlight: 1
+  
+- title: "Automated identification of bias inducing words in news article susing linguistic and context-oriented features"
+  image: biasinducing.png
+  description: We present a prototypical yet robust anddiverse data set for media bias research. It consists of 1,700 statements representing variousmedia bias instances and contains labels for media bias identification on the word and sentencelevel. In contrast to existing research, our data incorporate background information on theparticipants’ demographics, political ideology, and their opinion about media in general. 
+  authors: Timo Spinde, Lada Rudnitckaia, Jelena Mitrović, Felix Hamborg, Michael Granitzer, Bela Gipp, Karsten Donnay
+  link:
+    url: https://kops.uni-konstanz.de/bitstream/handle/123456789/52980/Spinde_2-5futcux6vkvc4.pdf?sequence=1&isAllowed=y
+    display:  Information Processing & Management 2021
+  highlight: 1
+
 
