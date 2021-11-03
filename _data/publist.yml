@@ -35,14 +35,23 @@
     display:  Argument & Computation, vol. 8, no. 3, pp. 267-287, 2017
   highlight: 1
   
-- title: "nlpUP at SemEval-2019 Task 6: A Deep Neural Language Model for Offensive Language Detection"
-  image: nlpUp.png
-  description: This paper presents our submission for the SemEval shared task 6, sub-task A on the identification of offensive language. Our proposed model, C-BiGRU, combines a Convolutional Neural Network (CNN) with a bidirectional Recurrent Neural Network (RNN). We utilize word2vec to capture the semantic similarities between words. This composition allows us to extract long term dependencies in tweets and distinguish between offensive and non-offensive tweets.
-  authors: J Mitrović, B Birkeneder, M Granitzer
+- title: "Analysis of a German Legal Citation Network"
+  image: legal_cite.png
+  description: The paper introduces the creation and analysis of a German legal citation network. The network consists of over 200.000 German court cases from all levels of appeal and jurisdiction and more than 50.000 laws. References to court decisions and laws are extracted from within the decision text of the court cases and added as links to the network. We apply network-based analysis techniques to support common legal information retrieval tasks such as identification of important court decisions and laws and case similarity searches. Furthermore, we demonstrate that the German case citation network displays scale-free behaviour, similar to that of the U.S. and Austrian Supreme Courts as shown by previous research.
+  authors:  Tobias Milz, Michael Granitzer, Jelena Mitrović
   link:
-    url: https://aclanthology.org/S19-2127.pdf
-    display:  In Proceedings of The 13th International Workshop on Semantic Evaluation (SemEval)
+    url: https://www.scitepress.org/PublicationsDetail.aspx?ID=BnSAYRIGXtI=&t=1
+    display:  In Proceedings of the 13th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management - KDIR, 147-154, 2021 
   highlight: 1
+ 
+#- title: "nlpUP at SemEval-2019 Task 6: A Deep Neural Language Model for Offensive Language Detection"
+#  image: nlpUp.png
+#  description: This paper presents our submission for the SemEval shared task 6, sub-task A on the identification of offensive language. Our proposed model, C-BiGRU, combines a Convolutional Neural Network (CNN) with a bidirectional Recurrent Neural Network (RNN). We utilize word2vec to capture the semantic similarities between words. This composition allows us to extract long term dependencies in tweets and distinguish between offensive and non-offensive tweets.
+#  authors: J Mitrović, B Birkeneder, M Granitzer
+#  link:
+#    url: https://aclanthology.org/S19-2127.pdf
+#    display:  In Proceedings of The 13th International Workshop on Semantic Evaluation (SemEval)
+#  highlight: 1
   
 - title: "Automated identification of bias inducing words in news article susing linguistic and context-oriented features"
   image: biasinducing.png
