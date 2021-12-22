@@ -56,11 +56,6 @@ We are a dynamic research group at the [Faculty of Computer Science and Mathemat
 
 
 
-
-To this end, we combine this approach with argument mining, also a research area within NLP. Argumentation mining is already used in social media to identify offensive language. However, the technology has so far reached its limits. She does not recognize irony or unobtrusive insults. The team will test whether the Passau approach is capable of this in heated debates on the topics of the climate crisis and vaccination criticism.
-
-We are also collaborating with our fellow researchers in [Media Bias Group](https://media-bias-research.org/) which is a research group that is focusing on uncovering media bias or unbalanced coverage.
-
 The project on which this research group is based is funded by the [German Federal Ministry of Education and Research (BMBF)](https://bmbf.de) along with the [University of Passau](https://uni-passau.de).
 
 <!--<figure class="fourth">-->
