@@ -12,7 +12,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.de/citations?hl=en&user=5j_sFToAAAAJ), [ResearcherID](https://www.researcherid.com/rid/))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.de/citations?hl=en&user=5j_sFToAAAAJ))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
