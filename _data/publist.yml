@@ -3,8 +3,8 @@
   description: The main focus of the paper is the definitional revision and enrichment of offensive language typology, making reference to publicly available offensive language datasets and testing them on available pretrained lexical embedding systems. We review over 60 available corpora and compare tagging schemas applied there while making an attempt to explain semantic differences between particular concepts of the category OFFENSIVE in English.
   authors: Barbara Lewandowska-Tomaszczyk, Slavko Žitnik, Anna Bączkowska, Chaya Liebeskind, Jelena Mitrović and Giedre Valunaite Oleskeviciene
   link:
-  url: http://ceur-ws.org/Vol-3064/03_Barbara_Lewandowska.pdf
-  display: A finite set of classes that cover aspects of offensive language representation
+    url: http://ceur-ws.org/Vol-3064/03_Barbara_Lewandowska.pdf
+    display: A finite set of classes that cover aspects of offensive language representation
   highlight: 1
   
 - title: "Clarifying Assumptions About Artificial Intelligence Before Revolutionising Patent Law"
