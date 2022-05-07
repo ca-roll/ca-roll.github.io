@@ -7,7 +7,7 @@
     display: GRhOOT, the German RhetOrical OnTology
   highlight: 1
   
-  - title: "Network Analysis of German COVID-19 Related Discussions on Telegram"
+- title: "Network Analysis of German COVID-19 Related Discussions on Telegram"
   image: COVID-19_Related_Discussions_on_Telegram.png.png 
   description: We present an effective way to create a dataset from relevant channels and groups of the messenger service Telegram, to detect clus- ters in this network, and to find influential actors. Our focus lies on the network of German COVID-19 sceptics that formed on Telegram along with growing restrictions meant to prevent the spreading of COVID-19.
   authors: Valentin Peter, Ramona Kühn, Jelena Mitrović, Michael Granitzer and Hannah Schmid-Petri
