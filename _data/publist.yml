@@ -76,7 +76,7 @@
   description: The paper introduces the creation and analysis of a German legal citation network. The network consists of over 200.000 German court cases from all levels of appeal and jurisdiction and more than 50.000 laws. References to court decisions and laws are extracted from within the decision text of the court cases and added as links to the network. We apply network-based analysis techniques to support common legal information retrieval tasks such as identification of important court decisions and laws and case similarity searches. Furthermore, we demonstrate that the German case citation network displays scale-free behaviour, similar to that of the U.S. and Austrian Supreme Courts as shown by previous research.
   authors:  Tobias Milz, Michael Granitzer, Jelena Mitrović
   link:
-    url: https://www.scitepress.org/PublicationsDetail.aspx?ID=BnSAYRIGXtI=&t=1
+    url: /downloads/Analysis_of_a_German_Legal_Citation_Network.pdf
     display:  In Proceedings of the 13th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management - KDIR, 147-154, 2021 
   highlight: 1
  
