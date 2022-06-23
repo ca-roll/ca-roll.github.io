@@ -2,10 +2,11 @@
   photo: Jelena Metrovic.jpg
   info: CAROLL research group leader
   email: Jelena.Mitrovic@uni-passau.de
+  google_scholar: https://scholar.google.com/citations?user=5j_sFToAAAAJ
   number_educ: 3
   education1: PhD in Natural Language Processing, University of Belgrade
-  education2: M.Sc Computer Science, University of Belgrade
-  education3: M.Sc in Modern Greek, Ancient Greek, and English language and literature, University of Belgrade
+  education2: M.Sc. Computer Science, University of Belgrade
+  education3: M.Sc. in Modern Greek, Ancient Greek, and English language and literature, University of Belgrade
   education4: ----
   education5: ----
 
@@ -13,32 +14,34 @@
   photo: Ramona Kuehn.png
   info: PhD Student
   email: Ramona.Kuehn@uni-passau.de
+  google_scholar: https://scholar.google.com/citations?user=YS0tNAkAAAAJ&
   number_educ: 2
-  education1: MSc. Computer Science, University of Passau
-  education2: BSc. Internet Computing, University of Passau
+  education1: M.Sc. Computer Science, University of Passau
+  education2: B.Sc. Internet Computing, University of Passau
 
 - name: Harshil Darji
   photo: harshil.jpg
   info: PhD Student
   email: Harshil.Darji@uni-passau.de
+  google_scholar: https://scholar.google.com/citations?user=c5KToK8AAAAJ
   number_educ: 2
-  education1: MSc. Computer Science, University of Passau
-  education2: B.Eng Information Technology, Gujarat Technological University, Gujarat, India
+  education1: M.Sc. Computer Science, University of Passau
+  education2: B.Eng. Information Technology, Gujarat Technological University, Gujarat, India
 
 - name: Tobias Milz
   photo: Tobias Milz.jpg
-  info: PhD Student, started MMM-YYYY
+  info: PhD Student
   email: Tobias.Milz@uni-passau.de
   number_educ: 2
-  education1: MSc. Computer Science, University of Passau
-  education2: BSc. Internet Computing, University of Passau
+  education1: M.Sc. Computer Science, University of Passau
+  education2: B.Sc. Internet Computing, University of Passau
 
 - name: Mehdi Ben Amor
   photo: Mehdi1.jpg
   info: PhD Student
   email: Mehdi.BenAmor@uni-passau.de
   number_educ: 2
-  education1: MSc. Computer Science, University of Passau
+  education1: M.Sc. Computer Science, University of Passau
   education2: Di­p­lom-In­ge­ni­eur Telecommunication & Networks, Higher School of Communications Sup'Com.
   education3:
 
@@ -47,4 +50,4 @@
   info: Student Research Assistant
   email: bergmu01@ads.uni-passau.de
   number_educ: 1
-  education1: BSc. Computer Science, University of Passau
+  education1: B.Sc. Computer Science, University of Passau
