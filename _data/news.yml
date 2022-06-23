@@ -1,3 +1,10 @@
+- date: 23. June 2022
+  headline: "Dr. Jelena Mitrović is an invited speaker at the <a href='https://scads.ai/education/summer-schools/scads-ai-summer-school-2022/'> <b> 8th International ScaDS.AI Summer School 2022 </b> </a> where she will give a lecture on the 'Computational Rhetoric Approach to Solving Complex NLP Tasks' on July 12th."
+
+- date: 23. June 2022
+  headline: "Ramona Kühn presented our paper 'GRhOOT: Ontology of Rhetorical Figures in German' at the <a href='https://lrec2022.lrec-conf.org/en/'> <b>LREC2022 conference</b> </a>."
+  photo: grhoot.jpg
+
 - date: 29. April 2022
   headline: "Dr. Jelena Mitrović gave a talk on the research we do in our CAROLL group at the <a href='https://www.cvut.cz/en/czech-institute-of-informatics-robotics-and-cybernetics'><b>AI Seminar of the Czech Institute of Informatics, Robotics and Cybernetics</b></a>."
 
@@ -5,7 +12,7 @@
   headline: "Dr. Jelena Mitrović gave a <a href='/images/Jeca_PasDas_2022.jpg'><b>talk</b></a> at the PasDas Symposium."
 
 - date: 04. March 2022
-  headline: "Dr. Jelena Mitrović is an invited speaker at the <a href='https://pasdas.de/'><b>PasDas Summit 2022</b></a> where she will give a talk on Abusive Language Detection in Social Media and also present our research group CAROLL."
+  headline: "Dr. Jelena Mitrović is an invited speaker at the <a href='https://pasdas.de/'><b>PasDas Summit 2022</b></a> where she will give a talk on 'Abusive Language Detection in Social Media' and also present our research group CAROLL."
 
 - date: 10. January 2022
   headline: "Ramona Kühn presented on the 10th January 2022 the Poster <a href='/downloads/Poster_2022_Computational_rhetoric.jpg'><b>Computational Rhetoric in Social Media and Law - CAROLL</b></a> on the 2022 All-Hands-Meeting of the BMBF-funded AI Research Projects that was hosted by the Munich Center for Machine Learning."
@@ -14,13 +21,13 @@
   headline: "In a collaboration between <a href='https://www.fim.uni-passau.de/data-science/'><b>Data Science Chair</b></a>/CAROLL (with Prof.Dr. Michael Granitzer, Dr. Jelena Mitrovic, Mehdi Ben Amor), <a href='https://www.regiothek.de/'><b>Regiothek</b></a> (with Alexander Treml, Bastian Kühnel, Britta Biskup), and <a href='https://www.centouris.de/'><b>CENTOURIS</b></a> (with Franziska Kellener, Dr. Stefan Mang, Judith von Minden), the project '<a href='https://www.uni-passau.de/smaeg-bot/foerderprojekt-smaeg-bot/'><b>SMAEG Bot für regionale Lebensmittel</b></a>' officialy started and is funded by the Federal Ministry of Food and Agriculture <a href='https://www.bmel.de/'><b>BMEL</b></a>. The project aims to make the market for regional food products more transparent and to reduce the marketing effort for the involved parties. <a href='https://www.uni-passau.de/bereiche/presse/pressemeldungen/passauer-innovationsgeist-fuer-smarten-lebensmittelkonsum-und-nachhaltige-produktion/'><b>Link</b></a> to the press release."
 
 - date: 06. July 2021
-  headline: "Dr. Jelena Mitrovic gave a talk about Neural Language Models for Abusive Language Detection at <a href='https://miteam.mi.sanu.ac.rs/asset/cQe8vw7TgorfiH6FB'><b>The AI Seminar</b></a> organized by the Mathematical Institure of the Serbian Academy of Sciences and Arts."
+  headline: "Dr. Jelena Mitrović gave a talk about Neural Language Models for Abusive Language Detection at <a href='https://miteam.mi.sanu.ac.rs/asset/cQe8vw7TgorfiH6FB'><b>The AI Seminar</b></a> organized by the Mathematical Institure of the Serbian Academy of Sciences and Arts."
 
 - date: 22. June 2021
-  headline: "Dr. Jelena Mitrovic gave a Keynote Speech at <a href='https://ingenuity.siemens.com/events/french-german-summerschool-on-artificial-intelligence-with-industry-2021/'><b>The French-German Summerschool on AI with Industry 2021</b></a> organized by the University of Passau, Ecole Normale Supérieure Paris-Saclay and with the support from Siemens AI Lab."
+  headline: "Dr. Jelena Mitrović gave a Keynote Speech at <a href='https://ingenuity.siemens.com/events/french-german-summerschool-on-artificial-intelligence-with-industry-2021/'><b>The French-German Summerschool on AI with Industry 2021</b></a> organized by the University of Passau, Ecole Normale Supérieure Paris-Saclay and with the support from Siemens AI Lab."
   
 - date: 21. June 2021
-  headline: "Rahmona Kühn and Tobias Milz submitted two posters on their research, <a href='/downloads/FantasticFigures_RamonaKuehn.pdf'>Fantastic Figures and How To Find Them</a> and <a href='/downloads/Summer_School_Poster_2.pdf'>Analysis of a German Legal Citation Network</a>, in the context of the <a href='https://ingenuity.siemens.com/events/french-german-summerschool-on-artificial-intelligence-with-industry-2021/'><b>2021 French-German Summer-school on Artificial Intelligence with Industry</b></a>."
+  headline: "Ramona Kühn and Tobias Milz submitted two posters on their research, <a href='/downloads/FantasticFigures_RamonaKuehn.pdf'>Fantastic Figures and How To Find Them</a> and <a href='/downloads/Summer_School_Poster_2.pdf'>Analysis of a German Legal Citation Network</a>, in the context of the <a href='https://ingenuity.siemens.com/events/french-german-summerschool-on-artificial-intelligence-with-industry-2021/'><b>2021 French-German Summer-school on Artificial Intelligence with Industry</b></a>."
   
 - date: 28. April 2021
   headline: "Dr. Jelena Mitrović has participated in <a href='https://www.phil.uni-passau.de/10minuten-sose21/'><b>10 Minuten Soziologie zum Thema Stress, 10 Minuten Rechtswissenschaft zum Thema Digitalisierung</b></a>. For the recorded session, use this <a href='https://www.phil.uni-passau.de/fileadmin/dokumente/fakultaeten/phil/lehrstuehle/henkel/10_Minuten_SoSe21/03__Passauer_10_Minuten_Mitrovic_Zuschnitt.mp3'><b>link</b></a>."
@@ -47,7 +54,7 @@
   headline: "A written article on CAROLL by Katrina Jordan that was published on <a href='https://www.research-in-bavaria.de/research-news/details/bmbf-project-caroll-algorithms-trained-in-rhetoric-to-combat-hatred-on-the-web'><b>Research in Bavaria</b></a> and <a href='https://idw-online.de/de/news758934'><b>idw-Informationsdienst Wissenschaft</b></a>." 
 
 - date: 19. November 2020
-  headline: "CAROLL research group leader Prof. Dr Metrovic did <a href='https://www.digital.uni-passau.de/en/stories/2020/jelena-mitrovic/'>an interview with the University's Digital Research Magazine</a>."
+  headline: "CAROLL research group leader Prof. Dr. Mitrović did <a href='https://www.digital.uni-passau.de/en/stories/2020/jelena-mitrovic/'>an interview with the University's Digital Research Magazine</a>."
   
 - date: 19. Juni 2020
   headline: "An article by the Ministry of Education and Research (BMBF) and DLR Projektträger on the <a href='https://www.softwaresysteme.pt-dlr.de/de/ki-nachwuchswissenschaftlerinnen.php'><b>Promotion of Women in AI</b></a> with an overview of all the projects supported by this movement."  
