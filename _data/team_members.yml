@@ -43,7 +43,13 @@
   number_educ: 2
   education1: M.Sc. Computer Science, University of Passau
   education2: Di­p­lom-In­ge­ni­eur Telecommunication & Networks, Higher School of Communications Sup'Com.
-  education3:
+
+- name: Khouloud Saadi
+  photo: khouloud_saadi.jpg
+  info: Research Assistant
+  email: kholoud.saadi@uni-passau.de
+  number_educ: 1
+  education1: Engineering Degree, Tunisia Polytechnic School
 
 - name: Florian Bergmüller
   photo: florian_bergmueller.png
@@ -56,5 +62,12 @@
   photo: lea_hufnagel.jpg
   info: Student Research Assistant
   email: hufnag10@ads.uni-passau.de
+  number_educ: 1
+  education1: Law (state exam), University of Passau
+
+- name: Mariella Ternes
+  photo: mariella_ternes.jpg
+  info: Student Research Assistant
+  email: ternes01@ads.uni-passau.de
   number_educ: 1
   education1: Law (state exam), University of Passau
