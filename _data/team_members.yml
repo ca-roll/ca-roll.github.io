@@ -55,8 +55,9 @@
   photo: florian_bergmueller.png
   info: Student Research Assistant
   email: bergmu01@ads.uni-passau.de
-  number_educ: 1
+  number_educ: 2
   education1: B.Sc. Computer Science, University of Passau
+  education2: M.Sc. Computer Science, University of Passau
 
 - name: Lea Hufnagel
   photo: lea_hufnagel.jpg
@@ -69,5 +70,12 @@
   photo: mariella_ternes.jpg
   info: Student Research Assistant
   email: ternes01@ads.uni-passau.de
+  number_educ: 1
+  education1: Law (state exam), University of Passau
+
+- name: Dominic Kuksaus
+  photo: bio-photo.jpg
+  info: Student Research Assistant
+  email: kuksau01@ads.uni-passau.de
   number_educ: 1
   education1: Law (state exam), University of Passau
