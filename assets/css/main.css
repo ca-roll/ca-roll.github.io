@@ -2626,7 +2626,7 @@ a:hover:after, table.table a:hover:after { width: 100%; }
 
 .post-description a:hover { color: var(--global-theme-color); text-decoration: none; }
 
-.navbar { box-shadow: none; border-bottom: 1px solid #e8e8e8; background-color: var(--global-bg-color); opacity: 0.95; }
+.navbar { box-shadow: none; border-bottom: 1px solid #e8e8e8; background-color: var(--global-bg-color); opacity: 1; }
 
 .navbar.navbar-light a:hover { text-decoration: none; }
 
