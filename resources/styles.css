@@ -1,0 +1,221 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+#logo {
+    width: auto;
+    height: 75px;
+    margin-bottom: 15px;
+}
+
+.container {
+    max-width: 850px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    border-bottom: 2px solid #7a93d4;
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+li {
+    margin: 10px 0;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+    position: relative;
+    transition: all 0.3s;
+    display: inline-block;
+    /* Ensures the transform property affects the element */
+}
+
+a::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    background-color: #007BFF;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out 0s;
+}
+
+a:hover {
+    color: #0056b3;
+    /* Slightly darker shade of blue for contrast */
+}
+
+a:hover::before {
+    visibility: visible;
+    transform: scaleX(1);
+}
+
+/* Styles for the collapsible sections */
+details {
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    margin: 10px 0;
+    transition: background-color 0.3s;
+}
+
+details[open] {
+    background-color: #f7f7f7;
+}
+
+summary {
+    padding: 10px 15px 10px 25px;
+    /* Adjusted left padding to make space for the arrow */
+    cursor: pointer;
+    font-weight: bold;
+    list-style-type: none;
+    /* Remove the default bullet symbol */
+    position: relative;
+    transition: background-color 0.3s;
+    display: list-item;
+    /* Ensure the list-style-type applies */
+}
+
+summary:hover {
+    background-color: #e0e0e0;
+}
+
+summary::before {
+    /* Custom arrow icon */
+    content: '➜';
+    font-size: 0.6em;
+    /* Make the arrow icon smaller */
+    position: absolute;
+    left: 10px;
+    /* Adjusted position for the arrow */
+    top: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.3s;
+}
+
+details[open] summary::before {
+    transform: translateY(-50%) rotate(90deg);
+}
+
+details ul {
+    margin: 0;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+#searchInput {
+    box-sizing: border-box;
+    /* Include padding and border in the element's total width */
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    outline: none;
+}
+
+#searchInput:focus {
+    border-color: #007BFF;
+}
+
+/* Back-to-Top Button Styles */
+#backToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #e6e6e6;
+    color: #333;
+    /* Change text color to dark */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+    font-size: 24px;
+    /* Increase font size for better visibility of the arrow */
+    line-height: 1;
+    /* Adjust line height for vertical centering */
+    width: 40px;
+    /* Fixed width for the button */
+    height: 40px;
+    /* Fixed height for the button */
+    text-align: center;
+    overflow: hidden;
+}
+
+#backToTop::before {
+    content: "";
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 15px solid #333;
+    /* Dark arrow color */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#backToTop:hover {
+    background-color: #7a93d4;
+}
+
+/* Resource Filtering */
+.filter-buttons {
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.filter-btn {
+    background-color: #f4f4f4;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    border-radius: 25px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    /* More subtle shadow */
+}
+
+.filter-btn:hover {
+    background-color: #e6e6e6;
+    /* Softer hover color */
+    transform: translateY(-2px);
+}
+
+.filter-btn:active {
+    transform: translateY(0);
+}
+
+.filter-btn.active {
+    background-color: #7a93d4;
+    /* Softer active color */
+    color: #333;
+    /* Darker text for better contrast on active button */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}

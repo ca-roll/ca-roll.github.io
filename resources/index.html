@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAROLL Resources</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <img src="logo.png" alt="Research Group Logo" id="logo">
+        <h4>Centralized access to the resources of the <a href="https://ca-roll.github.io/" target="_blank">CAROLL
+                Research Group</a></h4>
+    </header>
+
+    <div class="container">
+        <input type="text" id="searchInput" placeholder="Search for resources...">
+
+        <!-- Filter Buttons -->
+        <div class="filter-buttons">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="datasets">Datasets</button>
+            <button class="filter-btn" data-filter="models">Language models</button>
+            <button class="filter-btn" data-filter="papers">Papers</button>
+        </div>
+
+        <section data-category="datasets">
+            <h2>Datasets</h2>
+            <ul>
+                <li><a href="https://zenodo.org/record/6631931" target="_blank">Clean OpenLegalData - German</a></li>
+                <li><a href="https://huggingface.co/datasets/PaDaS-Lab/legal-reference-annotations"
+                        target="_blank">German Legal Reference Annotations</a></li>
+                <!-- Add more dataset links as needed -->
+            </ul>
+        </section>
+
+        <section data-category="models">
+            <h2>Language models</h2>
+            <ul>
+                <li><a href="https://huggingface.co/PaDaS-Lab/gbert-legal-ner" target="_blank">German BERT for Legal
+                        NER</a></li>
+                <li><a href="https://huggingface.co/PaDaS-Lab/gdpr-privacy-policy-ner" target="_blank">GDPR Privacy
+                        policy NER</a></li>
+                <!-- Add more LLMS links as needed -->
+            </ul>
+        </section>
+
+        <section data-category="papers">
+            <h2>Papers</h2>
+            <details>
+                <summary>2023</summary>
+                <ul>
+                    <li><a href="https://arxiv.org/pdf/2303.05388.pdf" target="_blank">German BERT Model for Legal Named
+                            Entity Recognition</a></li>
+                    <li><a href="https://ca-roll.github.io/downloads/A_Dataset_of_German_Legal_Reference_Annotations.pdf"
+                            target="_blank">A Dataset of German Legal Reference Annotations</a></li>
+                    <!-- Add more 2023 papers as needed -->
+                </ul>
+            </details>
+
+            <details>
+                <summary>2022</summary>
+                <ul>
+                    <!-- Add more 2022 papers as needed -->
+                </ul>
+            </details>
+
+            <details>
+                <summary>2021</summary>
+                <ul>
+                    <li><a href="https://doi.org/10.1007/978-3-031-35924-8_3" target="_blank">Exploring Semantic
+                            Similarity Between German Legal Texts and Referred Laws</a></li>
+                    <!-- Add more 2021 papers as needed -->
+                </ul>
+            </details>
+            <!-- Add more year sections as needed -->
+        </section>
+    </div>
+
+    <!-- Back-to-Top Button -->
+    <button id="backToTop"></button>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
