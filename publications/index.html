@@ -73,6 +73,18 @@
             <div class="row">
                 <div class="col-sm-6 clearfix">
                     <div class="well">
+                        <pubtit>A Framework for Studying Communication Pathways in Machine Learning-Based Agent-to-Agent Communication</pubtit>
+                        <p><img src="/images/pubpic/multiagent.png" class="img-responsive" width="33%" style="float: left" /></p>
+                        <p>The rise of Large Language Models (LLMs) has increased the relevance of agent-to-agent communication, particularly in systems where agents learn from their interactions. However, current LLMs offer limited insights into the communication dynamics among multiple agents, especially in large-scale settings when multiple agents are involved. Particularly training LLMs - in contrast to in-context learning - becomes nearly infeasible without large-scale computing infrastructure. In our work we present a machine-learning based agent framework to investigate the role of different communication pathways for studying language emergence between machine learning-based agents. We designed a transformer-based image auto-encoder as the agent architecture. A Gumbel SoftMax layer encodes images in form of symbols forming the language between agents. We study two pathways: In the first pathway, the sender reads an image and sends a message to the receiver. The receiver uses the message to reconstruct the sender’s image. In the second pathway, the sender and receiver read an image and minimize the distance between the generated symbols. In the first pathway, language emerges with the Levenshtein distance of ≤ 2 for 96% of messages. In the second pathway, no language emerges with the Levenshtein distance of ≤ 2 for 3% of messages.</p>
+                        <p><em>Sathish Purushothaman,  Michael Granitzer, Florian Lemmerich, Jelena Mitrovic</em></p>
+                        <p><strong><a href="/downloads/Multi_Agent_Bottleneck_Learner_Camera_Ready_Version.pdf">Download paper here</a></strong></p>
+                        <p class="text-danger"><strong> </strong></p>
+                        <p> </p>
+                    </div>
+                </div>
+                
+                <div class="col-sm-6 clearfix">
+                    <div class="well">
                         <pubtit>Intra-Class Similarity-Guided Feature Distillation</pubtit>
                         <p><img src="/images/pubpic/intraclass_sim.png" class="img-responsive" width="33%" style="float: left" /></p>
                         <p>Knowledge Distillation (KD) is an effective technique for compressing large language models through the teacher-student framework. Previous work in feature distillation mainly applied an exact matching between the hidden representations of the student and the teacher. However, as the student has a lower capacity compared to the teacher, it may struggle to mimic its exact hidden representations. This leads to a large discrepancy between their features as shown in preceding research. Therefore, we propose intra-class similarity-guided feature distillation, a novel approach to make the task easier for the student. In this work, we map each sample representation by the student to its K nearest neighbor samples representations by the teacher that are within the same class. This method is novel and can be combined with other distillation techniques. Empirical results show the effectiveness of our proposed approach by maintaining good performance on benchmark datasets.</p>
